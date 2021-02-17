@@ -24,7 +24,7 @@ This project is made using [scikit-learn](https://scikit-learn.org/stable/) with
    SSH:
 
    ```bash
-   $ git clone https://github.com/JFPach98/Robocupido.git
+   $ git clone https://github.com/RoBorregos/RoboCupido.git
    ```
 
 2. You can install all requirements by running:
