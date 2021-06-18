@@ -3,6 +3,7 @@
 # RoboCupido                
 
 Match making system based on people's likes, using the K-means machine learning algorithm.
+This system was used in [Enamóratec](https://www.instagram.com/p/CK4zsOJMmni/?utm_source=ig_web_copy_link), event organized by several Tec's engineering student councils from different careers.
 
 ## Project Details
 
@@ -24,7 +25,7 @@ This project is made using [scikit-learn](https://scikit-learn.org/stable/) with
    SSH:
 
    ```bash
-   $ git clone https://github.com/JFPach98/Robocupido.git
+   $ git clone https://github.com/RoBorregos/RoboCupido.git
    ```
 
 2. You can install all requirements by running:
